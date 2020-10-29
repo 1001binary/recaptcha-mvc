@@ -4,6 +4,10 @@ The .NET library for integrating Google Recaptcha V3 into ASP.NET MVC 3 and high
 <p align="center">
   <img src="https://www.google.com/recaptcha/intro/images/hero-recaptcha-invisible.gif">
 </p>
+<p align="center">
+  Source: image from Google
+</p>
+
 
 ### Usage
 
