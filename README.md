@@ -1,7 +1,7 @@
 # Recaptcha-mvc
-The .NET library for integrating Google Recaptcha V3 into ASP.NET MVC 3 or higher.
+The .NET library for integrating Google Recaptcha V3 into ASP.NET MVC 3 and higher.
 
-
+![Google Recaptcha V3](https://www.google.com/recaptcha/intro/images/hero-recaptcha-invisible.gif)
 
 ### Usage
 
